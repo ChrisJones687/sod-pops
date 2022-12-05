@@ -43,9 +43,9 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "rpops",
       "RemoteUsername": "ncsu-landscape-dynamics",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "a7255d1ebf55017729461a78d10a0a60969ff255",
-      "Hash": "757c092ae493a484fcc5e1bf25e2e2ad",
+      "RemoteRef": "v2.0.1",
+      "RemoteSha": "3aee60b2a88435650b0ee7235698672db46726ba",
+      "Hash": "273ea86f9973f8ae2979491a3de56286",
       "Requirements": [
         "MASS",
         "Metrics",
