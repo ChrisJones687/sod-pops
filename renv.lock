@@ -27,6 +27,43 @@
         "lattice"
       ]
     },
+<<<<<<< HEAD
+    "Metrics": {
+      "Package": "Metrics",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "1fdc9b3adfe2e2f8f77c22a59cf322ec",
+      "Requirements": []
+    },
+    "PoPS": {
+      "Package": "PoPS",
+      "Version": "2.0.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "rpops",
+      "RemoteUsername": "ncsu-landscape-dynamics",
+      "RemoteRef": "update-packages",
+      "RemoteSha": "3ef1b43b0a7c4013b015eafcf44d83c1857406d5",
+      "Hash": "010e2e47d2b26910dda302c9d0eeea5d",
+      "Requirements": [
+        "MASS",
+        "Metrics",
+        "Rcpp",
+        "aws.s3",
+        "doParallel",
+        "foreach",
+        "iterators",
+        "landscapemetrics",
+        "lubridate",
+        "raster",
+        "sp",
+        "terra"
+      ]
+    },
+=======
+>>>>>>> bb81891f59f555904d12fc06ae068f9f4336817d
     "R6": {
       "Package": "R6",
       "Version": "2.5.1",
@@ -418,6 +455,14 @@
         "sp",
         "terra"
       ]
+    },
+    "remotes": {
+      "Package": "remotes",
+      "Version": "2.4.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "227045be9aee47e6dda9bb38ac870d67",
+      "Requirements": []
     },
     "renv": {
       "Package": "renv",
