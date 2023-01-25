@@ -43,9 +43,9 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "rpops",
       "RemoteUsername": "ncsu-landscape-dynamics",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "a9de363fe68d76f197618573e101b6125416adac",
-      "Hash": "18eb83767aa8f313cac65d8cc3a5c930",
+      "RemoteRef": "update-packages",
+      "RemoteSha": "3ef1b43b0a7c4013b015eafcf44d83c1857406d5",
+      "Hash": "010e2e47d2b26910dda302c9d0eeea5d",
       "Requirements": [
         "MASS",
         "Metrics",
@@ -460,6 +460,14 @@
         "sp",
         "terra"
       ]
+    },
+    "remotes": {
+      "Package": "remotes",
+      "Version": "2.4.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "227045be9aee47e6dda9bb38ac870d67",
+      "Requirements": []
     },
     "renv": {
       "Package": "renv",
